@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Application Development
 - 🌱 I’m currently learning AWS Certified Developer- Associate
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me on email:nainareddy5277@gmail.com, phone:+919886880957
+- 📫 Reach me on email:nainareddy5277@gmail.com, phone:
 
 <!---
 NainaReddy/NainaReddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
